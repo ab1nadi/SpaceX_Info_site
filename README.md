@@ -1,5 +1,5 @@
 # spacexinfosite
-
+A little project that consumes a little bit of the spacex api. Purely just a demo.
 ## Project setup
 ```
 npm install

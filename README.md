@@ -1,5 +1,5 @@
 # spacexinfosite
-A little project that consumes a little bit of the spacex api. Purely just a demo.
+A little project that consumes a little bit of the spacex api. Purely just a demo. Built using vue.js and axios.js to consume the api.
 ## Project setup
 ```
 npm install
